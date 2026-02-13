@@ -1,1 +1,12 @@
-
+Package: com.aaronash.barrel
+Name: Barrel
+Version: 1.9.0.2
+Architecture: iphoneos-arm
+Description: Iconic icon rolling animations for iOS 6-10.
+Maintainer: mrmaurixemrmaurice-design
+Author: Aaron Ash
+Section: Tweaks
+Filename: debs/barrel_v1.9.0.2.deb
+Size: 207038
+MD5sum: 300889984920257e1747806487e91465
+Depends: mobilesubstrate, preferenceloader
